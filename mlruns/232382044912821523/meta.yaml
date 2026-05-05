@@ -1,0 +1,8 @@
+artifact_location: file:C:/Users/diana/titanic-ml-pipeline/mlruns/232382044912821523
+creation_time: 1777948986558
+experiment_id: '232382044912821523'
+last_update_time: 1777948986558
+lifecycle_stage: active
+name: titanic-survival
+trace_location: null
+workspace: default

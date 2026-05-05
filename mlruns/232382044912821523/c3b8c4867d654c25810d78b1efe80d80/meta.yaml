@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/diana/titanic-ml-pipeline/mlruns/232382044912821523/c3b8c4867d654c25810d78b1efe80d80/artifacts
+end_time: 1777948987284
+entry_point_name: ''
+experiment_id: '232382044912821523'
+lifecycle_stage: active
+run_id: c3b8c4867d654c25810d78b1efe80d80
+run_name: big-worm-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777948986930
+status: 4
+tags: []
+user_id: diana

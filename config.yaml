@@ -1,0 +1,17 @@
+data:
+  path: "data/titanic.csv"
+  test_size: 0.2
+  random_state: 42
+
+model:
+  n_estimators: 100
+  max_depth: 6
+  min_samples_split: 4
+  random_state: 42
+
+mlflow:
+  experiment_name: "titanic-survival"
+  tracking_uri: "file:./mlruns"
+
+artifacts:
+  model_path: "models_random_forest_model"

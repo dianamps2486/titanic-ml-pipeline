@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/diana/titanic-ml-pipeline/mlruns/232382044912821523/782e42a691554a509e04f9e495642b7d/artifacts
+end_time: 1777949122220
+entry_point_name: ''
+experiment_id: '232382044912821523'
+lifecycle_stage: active
+run_id: 782e42a691554a509e04f9e495642b7d
+run_name: hilarious-auk-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777949113651
+status: 3
+tags: []
+user_id: diana
