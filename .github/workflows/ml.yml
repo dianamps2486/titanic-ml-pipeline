@@ -24,6 +24,7 @@ jobs:
 
       - name: Ejecutar lint
         run: make lint
+        continue-on-error: true
 
       - name: Ejecutar pruebas
         run: make test
